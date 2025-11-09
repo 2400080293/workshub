@@ -3,7 +3,8 @@ export const workshops = [
     id: 1,
     type: 'workshop',
     title: 'React Basics',
-    description: 'Learn the fundamentals of React: components, props, state and hooks.',
+    description:
+      'Learn the fundamentals of React: components, props, state and hooks.',
     instructor: 'Alice Johnson',
     date: '2025-11-10',
     duration: '3 hours',
@@ -16,7 +17,8 @@ export const workshops = [
     id: 2,
     type: 'training',
     title: 'Advanced Node.js Training',
-    description: 'In-depth server-side JavaScript patterns, performance and scaling.',
+    description:
+      'In-depth server-side JavaScript patterns, performance and scaling.',
     instructor: 'Bob Smith',
     date: '2025-12-01',
     duration: '2 days',
@@ -29,7 +31,8 @@ export const workshops = [
     id: 3,
     type: 'workshop',
     title: 'Design Systems Workshop',
-    description: 'Create reusable UI components and build a small design system.',
+    description:
+      'Create reusable UI components and build a small design system.',
     instructor: 'Carla Diaz',
     date: '2025-11-20',
     duration: '4 hours',
@@ -42,7 +45,8 @@ export const workshops = [
     id: 4,
     type: 'training',
     title: 'Full-Stack Bootcamp (Intro)',
-    description: 'A short bootcamp introducing full-stack development workflows.',
+    description:
+      'A short bootcamp introducing full-stack development workflows.',
     instructor: 'Dev Team',
     date: '2026-01-15',
     duration: '1 week',
@@ -55,7 +59,8 @@ export const workshops = [
     id: 5,
     type: 'workshop',
     title: 'Testing React Apps',
-    description: 'Learn to write unit and integration tests for React applications.',
+    description:
+      'Learn to write unit and integration tests for React applications.',
     instructor: 'Evan Lee',
     date: '2025-11-30',
     duration: '3 hours',
@@ -65,7 +70,3 @@ export const workshops = [
     location: 'Online (Zoom)'
   }
 ];
-
-cd /Users/poojithapunati/Desktop/workshub
-git remote -v
-git branch --show-current
