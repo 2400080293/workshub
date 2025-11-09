@@ -65,3 +65,7 @@ export const workshops = [
     location: 'Online (Zoom)'
   }
 ];
+
+cd /Users/poojithapunati/Desktop/workshub
+git remote -v
+git branch --show-current
